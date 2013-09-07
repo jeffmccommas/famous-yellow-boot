@@ -18,12 +18,13 @@ body {
 
 }
 .headings h2 {
-	font-size: 1.6em;
+	font-size: 1.5em;
 
 }
 
 .headings h2 span {
 	color: green;
+  font-size: 1.5em;
 
 }
 
