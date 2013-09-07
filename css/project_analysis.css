@@ -1,7 +1,28 @@
 
 body {
-	margin: 0 auto;
-	width: 960px;
-	text-align: left;
-	font-size: 'Hel'
+  background: white;
+  color: #222222;
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  font-size: 16px;
+  position: relative;
+  cursor: default;
+}
+
+.headings ul li {
+	list-style: none;
+
+}
+.headings h2 {
+	font-size: 1.6em;
+
+}
+
+.headings h2 span {
+	color: green;
+
 }
